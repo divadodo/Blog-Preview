@@ -54,6 +54,15 @@ body{
     margin-bottom: -5px;
 }
 
+
+.author strong{
+   float: left;
+   margin-top: 15px;
+   font-size: small;
+}
 .author img{
-    size: 20px;
+    width: 30px;
+    margin-top: ;
+    float: left;
+    padding: 5px;
 }
